@@ -1,4 +1,4 @@
-# API REST com Flask e autenticação JWT (JSON Web Tokens)
+# [API REST com Flask e autenticação JWT (JSON Web Tokens)](https://medium.com/@hedgarbezerra35/api-rest-com-flask-autenticacao-25d99b8679b6)
 
 ![image](https://user-images.githubusercontent.com/69597971/153196276-315bbc4c-ed9b-4540-bccf-1772d67f837a.png)
 
